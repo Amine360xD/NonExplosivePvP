@@ -1,0 +1,10 @@
+# block explosion toggles
+disable_bed_explosion: true
+disable_respawn_anchor_explosion: true
+# block usage whitelist worlds
+bed_usage_whitelist_worlds:
+  - world
+respawn_anchor_usage_whitelist_worlds:
+  - world_nether
+# entity explosion toggles
+disable_end_crystal_explosion: true

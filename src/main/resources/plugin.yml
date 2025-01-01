@@ -1,0 +1,7 @@
+name: NonExplosivePvP
+version: '1.0'
+main: net.nonexplosivepvp.NonExplosivePvP
+api-version: '1.21'
+load: STARTUP
+author: Aminium
+description: Disables bed, respawn anchor, end crystal explosions on set dimensions to encourage "traditional pvp"
